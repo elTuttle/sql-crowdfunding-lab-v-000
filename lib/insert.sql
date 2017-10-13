@@ -62,3 +62,61 @@ VALUES("George",46);
 
 INSERT INTO pledges(amount,user_id,project_id)
 VALUES(25,1,1);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(100,3,8);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(10,15,9);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(50,4,2);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(150,16,2);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(200,20,1);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(15,12,6);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(35,17,4);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(90,15,7);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(30,19,8);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(500,17,3);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(25,12,8);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(5,3,4);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(85,2,10);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(40,18,10);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(125,20,5);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(200,10,2);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(45,13,9);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(100,5,7);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(30,16,3);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(150,18,3);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(25,14,1);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(100,18,7);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(250,3,9);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(350,12,10);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(40,1,7);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(40,15,9);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(70,2,3);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(50,18,6);
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(30,10,9);
