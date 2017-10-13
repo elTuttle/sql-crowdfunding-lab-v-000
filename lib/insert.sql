@@ -18,3 +18,6 @@ INSERT INTO projects(title,category,funding_goal,start_date,end_date)
 VALUES("photography project","photography",2500,"6/20/2017","8/30/2017");
 INSERT INTO projects(title,category,funding_goal,start_date,end_date)
 VALUES("art project 3","art",750,"1/23/2017","3/4/2017");
+
+INSERT INTO users(name,age)
+VALUES("John",18);
