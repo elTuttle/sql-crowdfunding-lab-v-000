@@ -60,3 +60,5 @@ VALUES("Jerry",65);
 INSERT INTO users(name,age)
 VALUES("George",46);
 
+INSERT INTO pledges(amount,user_id,project_id)
+VALUES(25,1,1);
