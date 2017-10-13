@@ -21,3 +21,42 @@ VALUES("art project 3","art",750,"1/23/2017","3/4/2017");
 
 INSERT INTO users(name,age)
 VALUES("John",18);
+INSERT INTO users(name,age)
+VALUES("Julie",23);
+INSERT INTO users(name,age)
+VALUES("Christian",15);
+INSERT INTO users(name,age)
+VALUES("Mark",19);
+INSERT INTO users(name,age)
+VALUES("Laurie",40);
+INSERT INTO users(name,age)
+VALUES("Kirk",42);
+INSERT INTO users(name,age)
+VALUES("Kohl",23);
+INSERT INTO users(name,age)
+VALUES("Tim",30);
+INSERT INTO users(name,age)
+VALUES("Sarah",25);
+INSERT INTO users(name,age)
+VALUES("Anthony",24);
+INSERT INTO users(name,age)
+VALUES("Jonah",24);
+INSERT INTO users(name,age)
+VALUES("Mike",32);
+INSERT INTO users(name,age)
+VALUES("Scott",50);
+INSERT INTO users(name,age)
+VALUES("Jake",38);
+INSERT INTO users(name,age)
+VALUES("Alex",33);
+INSERT INTO users(name,age)
+VALUES("Kate",21);
+INSERT INTO users(name,age)
+VALUES("Frank",60);
+INSERT INTO users(name,age)
+VALUES("Larry",70);
+INSERT INTO users(name,age)
+VALUES("Jerry",65);
+INSERT INTO users(name,age)
+VALUES("George",46);
+
